@@ -3,7 +3,6 @@ import { Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Header from './components/Header';
 import Squares from './components/Squares';
-import CyberCursor from './components/CyberCursor';
 import { NavbarProvider } from './contexts/NavbarContext';
 import { useTheme } from './contexts/ThemeContext';
 
@@ -17,8 +16,6 @@ function App() {
   return (
     <NavbarProvider>
       <div className="relative min-h-screen bg-[#020403] transition-colors duration-500 overflow-hidden">
-        <CyberCursor />
-
         {/* Global Background Animation */}
         <div className="fixed inset-0 z-0">
           <Squares

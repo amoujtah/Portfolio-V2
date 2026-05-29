@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App.jsx';
 import { ThemeProvider } from './contexts/ThemeContext';
+import CyberCursor from './components/CyberCursor.jsx';
 import Preloader from './components/Preloader.jsx';
 import './index.css';
 
@@ -15,6 +16,7 @@ const Main = () => {
 
   return (
     <>
+      <CyberCursor />
       {isLoading ? (
         <Preloader onFinished={handlePreloaderFinished} />
       ) : (
