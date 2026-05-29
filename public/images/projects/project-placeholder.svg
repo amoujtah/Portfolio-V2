@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Project image placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020403"/>
+      <stop offset="0.55" stop-color="#052e1a"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v48" fill="none" stroke="#10b981" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#grid)"/>
+  <rect x="230" y="210" width="740" height="380" rx="18" fill="#020806" fill-opacity=".72" stroke="#34d399" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M330 500h540M330 430h300M330 360h420M330 300h210" stroke="#34d399" stroke-opacity=".72" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="830" cy="318" r="55" fill="#84cc16" fill-opacity=".16" stroke="#bef264" stroke-opacity=".6" stroke-width="4"/>
+  <path d="m805 318 17 17 38-48" fill="none" stroke="#bef264" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

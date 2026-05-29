@@ -1,0 +1,13 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#020806"/>
+  <rect x="82" y="72" width="1036" height="616" rx="28" fill="#06130d" stroke="#34d399" stroke-opacity=".36" stroke-width="2"/>
+  <rect x="130" y="126" width="212" height="508" rx="18" fill="#020806" stroke="#34d399" stroke-opacity=".22"/>
+  <rect x="386" y="126" width="682" height="120" rx="18" fill="#10b981" fill-opacity=".14" stroke="#34d399" stroke-opacity=".28"/>
+  <rect x="386" y="292" width="304" height="264" rx="18" fill="#020806" stroke="#34d399" stroke-opacity=".22"/>
+  <rect x="734" y="292" width="334" height="264" rx="18" fill="#020806" stroke="#34d399" stroke-opacity=".22"/>
+  <path d="M428 480l68-86 70 44 76-118" stroke="#34d399" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M785 484h230M785 424h172M785 364h206" stroke="#e5e7eb" stroke-width="18" stroke-linecap="round" opacity=".2"/>
+  <path d="M174 188h112M174 262h86M174 336h118M174 410h74" stroke="#34d399" stroke-width="16" stroke-linecap="round" opacity=".36"/>
+  <text x="386" y="632" fill="#e5e7eb" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Cybsera Dashboard</text>
+  <text x="386" y="672" fill="#86efac" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="4">ADMIN ANALYTICS UI</text>
+</svg>

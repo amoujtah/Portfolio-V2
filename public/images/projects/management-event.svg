@@ -1,0 +1,13 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#020806"/>
+  <rect x="96" y="82" width="1008" height="596" rx="28" fill="#06130d" stroke="#34d399" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="160" y="162" width="292" height="354" rx="20" fill="#020806" stroke="#34d399" stroke-opacity=".24"/>
+  <rect x="512" y="162" width="532" height="354" rx="20" fill="#020806" stroke="#34d399" stroke-opacity=".24"/>
+  <path d="M206 234h200M206 318h132M206 402h166" stroke="#e5e7eb" stroke-width="18" stroke-linecap="round" opacity=".22"/>
+  <rect x="574" y="226" width="118" height="94" rx="16" fill="#10b981" fill-opacity=".18" stroke="#34d399" stroke-opacity=".35"/>
+  <rect x="732" y="226" width="118" height="94" rx="16" fill="#0f172a" stroke="#34d399" stroke-opacity=".2"/>
+  <rect x="890" y="226" width="118" height="94" rx="16" fill="#0f172a" stroke="#34d399" stroke-opacity=".2"/>
+  <path d="M574 394h434M574 458h312" stroke="#34d399" stroke-width="18" stroke-linecap="round" opacity=".32"/>
+  <text x="160" y="602" fill="#e5e7eb" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Management Event</text>
+  <text x="160" y="642" fill="#86efac" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="4">DJANGO EVENTS API</text>
+</svg>

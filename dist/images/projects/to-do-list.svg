@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#020806"/>
+  <path d="M0 0h1200v760H0z" fill="url(#g)"/>
+  <path d="M0 90h1200M0 190h1200M0 290h1200M0 390h1200M0 490h1200M0 590h1200M0 690h1200M100 0v760M240 0v760M380 0v760M520 0v760M660 0v760M800 0v760M940 0v760M1080 0v760" stroke="#10b981" stroke-opacity=".08"/>
+  <rect x="96" y="82" width="1008" height="596" rx="28" fill="#06130d" stroke="#34d399" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="144" y="136" width="396" height="438" rx="20" fill="#020806" stroke="#10b981" stroke-opacity=".25"/>
+  <rect x="612" y="138" width="348" height="62" rx="14" fill="#10b981" fill-opacity=".14" stroke="#34d399" stroke-opacity=".35"/>
+  <rect x="612" y="236" width="404" height="62" rx="14" fill="#0f172a" stroke="#34d399" stroke-opacity=".18"/>
+  <rect x="612" y="334" width="312" height="62" rx="14" fill="#0f172a" stroke="#34d399" stroke-opacity=".18"/>
+  <rect x="612" y="432" width="430" height="62" rx="14" fill="#0f172a" stroke="#34d399" stroke-opacity=".18"/>
+  <path d="M176 190l28 28 58-72" stroke="#34d399" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 318l28 28 58-72" stroke="#34d399" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" opacity=".65"/>
+  <path d="M176 446l28 28 58-72" stroke="#34d399" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/>
+  <text x="612" y="596" fill="#e5e7eb" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">To Do List Portal</text>
+  <text x="612" y="636" fill="#86efac" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="4">DJANGO REST + REACT</text>
+  <defs><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 120) rotate(142) scale(980)"><stop stop-color="#10b981" stop-opacity=".26"/><stop offset="1" stop-color="#020806" stop-opacity="0"/></radialGradient></defs>
+</svg>
